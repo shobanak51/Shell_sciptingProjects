@@ -58,9 +58,6 @@ Shobana Senthilkumar
 Feel free to connect or explore more at GitHub
 
 
-📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
-
 
 🙌 Contributions
 Contributions, feedback, and suggestions are welcome! Open an issue or submit a pull request.
